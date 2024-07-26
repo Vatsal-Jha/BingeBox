@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bingebox/static/css/main.4454bed7.css",
+    "main.js": "/bingebox/static/js/main.403b9664.js",
+    "index.html": "/bingebox/index.html",
+    "main.4454bed7.css.map": "/bingebox/static/css/main.4454bed7.css.map",
+    "main.403b9664.js.map": "/bingebox/static/js/main.403b9664.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4454bed7.css",
+    "static/js/main.403b9664.js"
+  ]
+}
